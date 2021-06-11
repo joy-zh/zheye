@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "bootstrap": "^5.0.1",
-    "vue": "^3.0.0"
+    "mitt": "^2.1.0",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.8",
+    "vuex": "^4.0.1"
   },
   "devDependencies": {
     "@types/node": "^15.12.1",
